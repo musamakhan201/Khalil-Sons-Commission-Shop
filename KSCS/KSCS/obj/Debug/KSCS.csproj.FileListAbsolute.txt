@@ -1,0 +1,263 @@
+c:\users\usama\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\KSCS.exe.config
+c:\users\usama\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\KSCS.exe
+c:\users\usama\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\KSCS.pdb
+c:\users\usama\documents\visual studio 2015\Projects\KSCS\KSCS\obj\Debug\KSCS.Properties.Resources.resources
+c:\users\usama\documents\visual studio 2015\Projects\KSCS\KSCS\obj\Debug\KSCS.csproj.GenerateResource.Cache
+c:\users\usama\documents\visual studio 2015\Projects\KSCS\KSCS\obj\Debug\KSCS.exe
+c:\users\usama\documents\visual studio 2015\Projects\KSCS\KSCS\obj\Debug\KSCS.pdb
+c:\users\usama\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\obj\Debug\KSCS.Login.resources
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\obj\Debug\KSCS.Registeration.resources
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\obj\Debug\KSCS.Main.resources
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\obj\Debug\KSCS.expenditures.resources
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\obj\Debug\KSCS.farmers.resources
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\obj\Debug\KSCS.employees.resources
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\obj\Debug\KSCS.Inventory.resources
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\obj\Debug\KSCS.Salary.resources
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\obj\Debug\KSCS.AboutUs.resources
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\obj\Debug\KSCS.Buyer.resources
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\obj\Debug\KSCS.Commission.resources
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\obj\Debug\KSCS.Order.resources
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\obj\Debug\KSCS.UserSetting.resources
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\Common.Logging.Core.dll
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\Common.Logging.dll
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\itext.barcodes.dll
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\itext.forms.dll
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\itext.io.dll
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\itext.kernel.dll
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\itext.layout.dll
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\itext.pdfa.dll
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\itext.sign.dll
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\itext.styledxmlparser.dll
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\itext.svg.dll
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\itextsharp.dll
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\Common.Logging.pdb
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\Common.Logging.xml
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\Common.Logging.Core.pdb
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\Common.Logging.Core.xml
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\itext.barcodes.xml
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\itext.forms.xml
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\itext.io.xml
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\itext.kernel.xml
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\itext.layout.xml
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\itext.pdfa.xml
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\itext.sign.xml
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\itext.styledxmlparser.xml
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\itext.svg.xml
+C:\Users\USAMA\documents\visual studio 2015\Projects\KSCS\KSCS\bin\Debug\itextsharp.xml
+D:\KSCS\KSCS\bin\Debug\KSCS.exe.config
+D:\KSCS\KSCS\obj\Debug\KSCS.exe
+D:\KSCS\KSCS\obj\Debug\KSCS.pdb
+D:\KSCS\KSCS\bin\Debug\KSCS.exe
+D:\KSCS\KSCS\bin\Debug\KSCS.pdb
+D:\KSCS\KSCS\bin\Debug\BouncyCastle.Crypto.dll
+D:\KSCS\KSCS\bin\Debug\Common.Logging.Core.dll
+D:\KSCS\KSCS\bin\Debug\Common.Logging.dll
+D:\KSCS\KSCS\bin\Debug\itext.barcodes.dll
+D:\KSCS\KSCS\bin\Debug\itext.forms.dll
+D:\KSCS\KSCS\bin\Debug\itext.io.dll
+D:\KSCS\KSCS\bin\Debug\itext.kernel.dll
+D:\KSCS\KSCS\bin\Debug\itext.layout.dll
+D:\KSCS\KSCS\bin\Debug\itext.pdfa.dll
+D:\KSCS\KSCS\bin\Debug\itext.sign.dll
+D:\KSCS\KSCS\bin\Debug\itext.styledxmlparser.dll
+D:\KSCS\KSCS\bin\Debug\itext.svg.dll
+D:\KSCS\KSCS\bin\Debug\itextsharp.dll
+D:\KSCS\KSCS\bin\Debug\BouncyCastle.Crypto.xml
+D:\KSCS\KSCS\bin\Debug\Common.Logging.pdb
+D:\KSCS\KSCS\bin\Debug\Common.Logging.xml
+D:\KSCS\KSCS\bin\Debug\Common.Logging.Core.pdb
+D:\KSCS\KSCS\bin\Debug\Common.Logging.Core.xml
+D:\KSCS\KSCS\bin\Debug\itext.barcodes.xml
+D:\KSCS\KSCS\bin\Debug\itext.forms.xml
+D:\KSCS\KSCS\bin\Debug\itext.io.xml
+D:\KSCS\KSCS\bin\Debug\itext.kernel.xml
+D:\KSCS\KSCS\bin\Debug\itext.layout.xml
+D:\KSCS\KSCS\bin\Debug\itext.pdfa.xml
+D:\KSCS\KSCS\bin\Debug\itext.sign.xml
+D:\KSCS\KSCS\bin\Debug\itext.styledxmlparser.xml
+D:\KSCS\KSCS\bin\Debug\itext.svg.xml
+D:\KSCS\KSCS\bin\Debug\itextsharp.xml
+D:\KSCS\KSCS\obj\Debug\KSCS.AboutUs.resources
+D:\KSCS\KSCS\obj\Debug\KSCS.Buyer.resources
+D:\KSCS\KSCS\obj\Debug\KSCS.Commission.resources
+D:\KSCS\KSCS\obj\Debug\KSCS.employees.resources
+D:\KSCS\KSCS\obj\Debug\KSCS.Expenditures.resources
+D:\KSCS\KSCS\obj\Debug\KSCS.farmers.resources
+D:\KSCS\KSCS\obj\Debug\KSCS.Login.resources
+D:\KSCS\KSCS\obj\Debug\KSCS.Inventory.resources
+D:\KSCS\KSCS\obj\Debug\KSCS.Main.resources
+D:\KSCS\KSCS\obj\Debug\KSCS.Order.resources
+D:\KSCS\KSCS\obj\Debug\KSCS.Properties.Resources.resources
+D:\KSCS\KSCS\obj\Debug\KSCS.Registeration.resources
+D:\KSCS\KSCS\obj\Debug\KSCS.Salary.resources
+D:\KSCS\KSCS\obj\Debug\KSCS.UserSetting.resources
+D:\KSCS\KSCS\obj\Debug\KSCS.csproj.GenerateResource.Cache
+D:\KSCS\KSCS\obj\Debug\KSCS.csprojResolveAssemblyReference.cache
+D:\design pattern\KSCS\KSCS\bin\Debug\KSCS.exe.config
+D:\design pattern\KSCS\KSCS\obj\Debug\KSCS.exe
+D:\design pattern\KSCS\KSCS\obj\Debug\KSCS.pdb
+D:\design pattern\KSCS\KSCS\bin\Debug\KSCS.exe
+D:\design pattern\KSCS\KSCS\bin\Debug\KSCS.pdb
+D:\design pattern\KSCS\KSCS\bin\Debug\BouncyCastle.Crypto.dll
+D:\design pattern\KSCS\KSCS\bin\Debug\Common.Logging.Core.dll
+D:\design pattern\KSCS\KSCS\bin\Debug\Common.Logging.dll
+D:\design pattern\KSCS\KSCS\bin\Debug\itext.barcodes.dll
+D:\design pattern\KSCS\KSCS\bin\Debug\itext.forms.dll
+D:\design pattern\KSCS\KSCS\bin\Debug\itext.io.dll
+D:\design pattern\KSCS\KSCS\bin\Debug\itext.kernel.dll
+D:\design pattern\KSCS\KSCS\bin\Debug\itext.layout.dll
+D:\design pattern\KSCS\KSCS\bin\Debug\itext.pdfa.dll
+D:\design pattern\KSCS\KSCS\bin\Debug\itext.sign.dll
+D:\design pattern\KSCS\KSCS\bin\Debug\itext.styledxmlparser.dll
+D:\design pattern\KSCS\KSCS\bin\Debug\itext.svg.dll
+D:\design pattern\KSCS\KSCS\bin\Debug\itextsharp.dll
+D:\design pattern\KSCS\KSCS\bin\Debug\BouncyCastle.Crypto.xml
+D:\design pattern\KSCS\KSCS\bin\Debug\Common.Logging.pdb
+D:\design pattern\KSCS\KSCS\bin\Debug\Common.Logging.xml
+D:\design pattern\KSCS\KSCS\bin\Debug\Common.Logging.Core.pdb
+D:\design pattern\KSCS\KSCS\bin\Debug\Common.Logging.Core.xml
+D:\design pattern\KSCS\KSCS\bin\Debug\itext.barcodes.xml
+D:\design pattern\KSCS\KSCS\bin\Debug\itext.forms.xml
+D:\design pattern\KSCS\KSCS\bin\Debug\itext.io.xml
+D:\design pattern\KSCS\KSCS\bin\Debug\itext.kernel.xml
+D:\design pattern\KSCS\KSCS\bin\Debug\itext.layout.xml
+D:\design pattern\KSCS\KSCS\bin\Debug\itext.pdfa.xml
+D:\design pattern\KSCS\KSCS\bin\Debug\itext.sign.xml
+D:\design pattern\KSCS\KSCS\bin\Debug\itext.styledxmlparser.xml
+D:\design pattern\KSCS\KSCS\bin\Debug\itext.svg.xml
+D:\design pattern\KSCS\KSCS\bin\Debug\itextsharp.xml
+D:\design pattern\KSCS\KSCS\obj\Debug\KSCS.AboutUs.resources
+D:\design pattern\KSCS\KSCS\obj\Debug\KSCS.Buyer.resources
+D:\design pattern\KSCS\KSCS\obj\Debug\KSCS.Commission.resources
+D:\design pattern\KSCS\KSCS\obj\Debug\KSCS.employees.resources
+D:\design pattern\KSCS\KSCS\obj\Debug\KSCS.Expenditures.resources
+D:\design pattern\KSCS\KSCS\obj\Debug\KSCS.farmers.resources
+D:\design pattern\KSCS\KSCS\obj\Debug\KSCS.Login.resources
+D:\design pattern\KSCS\KSCS\obj\Debug\KSCS.Inventory.resources
+D:\design pattern\KSCS\KSCS\obj\Debug\KSCS.Main.resources
+D:\design pattern\KSCS\KSCS\obj\Debug\KSCS.Order.resources
+D:\design pattern\KSCS\KSCS\obj\Debug\KSCS.Properties.Resources.resources
+D:\design pattern\KSCS\KSCS\obj\Debug\KSCS.Registeration.resources
+D:\design pattern\KSCS\KSCS\obj\Debug\KSCS.Salary.resources
+D:\design pattern\KSCS\KSCS\obj\Debug\KSCS.UserSetting.resources
+D:\design pattern\KSCS\KSCS\obj\Debug\KSCS.csproj.GenerateResource.Cache
+D:\design pattern\KSCS\KSCS\obj\Debug\KSCS.csprojResolveAssemblyReference.cache
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\KSCS.exe.config
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\obj\Debug\KSCS.exe
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\obj\Debug\KSCS.pdb
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\KSCS.exe
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\KSCS.pdb
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\Common.Logging.Core.dll
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\Common.Logging.dll
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\itext.barcodes.dll
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\itext.forms.dll
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\itext.io.dll
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\itext.kernel.dll
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\itext.layout.dll
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\itext.pdfa.dll
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\itext.sign.dll
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\itext.styledxmlparser.dll
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\itext.svg.dll
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\itextsharp.dll
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\Common.Logging.pdb
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\Common.Logging.xml
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\Common.Logging.Core.pdb
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\Common.Logging.Core.xml
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\itext.barcodes.xml
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\itext.forms.xml
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\itext.io.xml
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\itext.kernel.xml
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\itext.layout.xml
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\itext.pdfa.xml
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\itext.sign.xml
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\itext.styledxmlparser.xml
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\itext.svg.xml
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\itextsharp.xml
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\obj\Debug\KSCS.csprojResolveAssemblyReference.cache
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\obj\Debug\KSCS.AboutUs.resources
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\obj\Debug\KSCS.Buyer.resources
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\obj\Debug\KSCS.Commission.resources
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\obj\Debug\KSCS.employees.resources
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\obj\Debug\KSCS.Expenditures.resources
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\obj\Debug\KSCS.farmers.resources
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\obj\Debug\KSCS.Login.resources
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\obj\Debug\KSCS.Inventory.resources
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\obj\Debug\KSCS.Main.resources
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\obj\Debug\KSCS.Order.resources
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\obj\Debug\KSCS.Properties.Resources.resources
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\obj\Debug\KSCS.Registeration.resources
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\obj\Debug\KSCS.Salary.resources
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\obj\Debug\KSCS.UserSetting.resources
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\obj\Debug\KSCS.csproj.GenerateResource.Cache
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\USAMA\Documents\Visual Studio 2015\KSCS\KSCS\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\4th Semester\KSCS\KSCS\bin\Debug\KSCS.exe.config
+E:\4th Semester\KSCS\KSCS\obj\Debug\KSCS.exe
+E:\4th Semester\KSCS\KSCS\obj\Debug\KSCS.pdb
+E:\4th Semester\KSCS\KSCS\bin\Debug\KSCS.exe
+E:\4th Semester\KSCS\KSCS\bin\Debug\KSCS.pdb
+E:\4th Semester\KSCS\KSCS\bin\Debug\BouncyCastle.Crypto.dll
+E:\4th Semester\KSCS\KSCS\bin\Debug\Common.Logging.Core.dll
+E:\4th Semester\KSCS\KSCS\bin\Debug\Common.Logging.dll
+E:\4th Semester\KSCS\KSCS\bin\Debug\itext.barcodes.dll
+E:\4th Semester\KSCS\KSCS\bin\Debug\itext.forms.dll
+E:\4th Semester\KSCS\KSCS\bin\Debug\itext.io.dll
+E:\4th Semester\KSCS\KSCS\bin\Debug\itext.kernel.dll
+E:\4th Semester\KSCS\KSCS\bin\Debug\itext.layout.dll
+E:\4th Semester\KSCS\KSCS\bin\Debug\itext.pdfa.dll
+E:\4th Semester\KSCS\KSCS\bin\Debug\itext.sign.dll
+E:\4th Semester\KSCS\KSCS\bin\Debug\itext.styledxmlparser.dll
+E:\4th Semester\KSCS\KSCS\bin\Debug\itext.svg.dll
+E:\4th Semester\KSCS\KSCS\bin\Debug\itextsharp.dll
+E:\4th Semester\KSCS\KSCS\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\4th Semester\KSCS\KSCS\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+E:\4th Semester\KSCS\KSCS\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\4th Semester\KSCS\KSCS\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\4th Semester\KSCS\KSCS\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\4th Semester\KSCS\KSCS\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\4th Semester\KSCS\KSCS\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\4th Semester\KSCS\KSCS\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\4th Semester\KSCS\KSCS\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\4th Semester\KSCS\KSCS\bin\Debug\BouncyCastle.Crypto.xml
+E:\4th Semester\KSCS\KSCS\bin\Debug\Common.Logging.pdb
+E:\4th Semester\KSCS\KSCS\bin\Debug\Common.Logging.xml
+E:\4th Semester\KSCS\KSCS\bin\Debug\Common.Logging.Core.pdb
+E:\4th Semester\KSCS\KSCS\bin\Debug\Common.Logging.Core.xml
+E:\4th Semester\KSCS\KSCS\bin\Debug\itext.barcodes.xml
+E:\4th Semester\KSCS\KSCS\bin\Debug\itext.forms.xml
+E:\4th Semester\KSCS\KSCS\bin\Debug\itext.io.xml
+E:\4th Semester\KSCS\KSCS\bin\Debug\itext.kernel.xml
+E:\4th Semester\KSCS\KSCS\bin\Debug\itext.layout.xml
+E:\4th Semester\KSCS\KSCS\bin\Debug\itext.pdfa.xml
+E:\4th Semester\KSCS\KSCS\bin\Debug\itext.sign.xml
+E:\4th Semester\KSCS\KSCS\bin\Debug\itext.styledxmlparser.xml
+E:\4th Semester\KSCS\KSCS\bin\Debug\itext.svg.xml
+E:\4th Semester\KSCS\KSCS\bin\Debug\itextsharp.xml
+E:\4th Semester\KSCS\KSCS\obj\Debug\KSCS.csprojResolveAssemblyReference.cache
+E:\4th Semester\KSCS\KSCS\obj\Debug\KSCS.AboutUs.resources
+E:\4th Semester\KSCS\KSCS\obj\Debug\KSCS.Buyer.resources
+E:\4th Semester\KSCS\KSCS\obj\Debug\KSCS.Commission.resources
+E:\4th Semester\KSCS\KSCS\obj\Debug\KSCS.employees.resources
+E:\4th Semester\KSCS\KSCS\obj\Debug\KSCS.Expenditures.resources
+E:\4th Semester\KSCS\KSCS\obj\Debug\KSCS.farmers.resources
+E:\4th Semester\KSCS\KSCS\obj\Debug\KSCS.Login.resources
+E:\4th Semester\KSCS\KSCS\obj\Debug\KSCS.Inventory.resources
+E:\4th Semester\KSCS\KSCS\obj\Debug\KSCS.Main.resources
+E:\4th Semester\KSCS\KSCS\obj\Debug\KSCS.Order.resources
+E:\4th Semester\KSCS\KSCS\obj\Debug\KSCS.Properties.Resources.resources
+E:\4th Semester\KSCS\KSCS\obj\Debug\KSCS.Registeration.resources
+E:\4th Semester\KSCS\KSCS\obj\Debug\KSCS.Salary.resources
+E:\4th Semester\KSCS\KSCS\obj\Debug\KSCS.UserSetting.resources
+E:\4th Semester\KSCS\KSCS\obj\Debug\KSCS.csproj.GenerateResource.Cache
